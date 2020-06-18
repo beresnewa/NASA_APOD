@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NASA_APOD/static/css/main.87c0379c.chunk.css",
+    "main.js": "/NASA_APOD/static/js/main.405b44f6.chunk.js",
+    "main.js.map": "/NASA_APOD/static/js/main.405b44f6.chunk.js.map",
+    "runtime-main.js": "/NASA_APOD/static/js/runtime-main.88421bcb.js",
+    "runtime-main.js.map": "/NASA_APOD/static/js/runtime-main.88421bcb.js.map",
+    "static/js/2.550d1153.chunk.js": "/NASA_APOD/static/js/2.550d1153.chunk.js",
+    "static/js/2.550d1153.chunk.js.map": "/NASA_APOD/static/js/2.550d1153.chunk.js.map",
+    "index.html": "/NASA_APOD/index.html",
+    "precache-manifest.a8e539b36a882a2e4d3563388f6aa4be.js": "/NASA_APOD/precache-manifest.a8e539b36a882a2e4d3563388f6aa4be.js",
+    "service-worker.js": "/NASA_APOD/service-worker.js",
+    "static/css/main.87c0379c.chunk.css.map": "/NASA_APOD/static/css/main.87c0379c.chunk.css.map",
+    "static/js/2.550d1153.chunk.js.LICENSE.txt": "/NASA_APOD/static/js/2.550d1153.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/NASA_APOD/static/media/background-fon.e648944d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88421bcb.js",
+    "static/js/2.550d1153.chunk.js",
+    "static/css/main.87c0379c.chunk.css",
+    "static/js/main.405b44f6.chunk.js"
+  ]
+}
