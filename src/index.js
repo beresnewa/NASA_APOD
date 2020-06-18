@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Apod from './src/components/Apod/index';
+import Apod from './components/Apod/index';
 import './index.css';
 
 ReactDOM.render(
